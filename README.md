@@ -8,4 +8,4 @@ Projeto Original: https://github.com/edubart/otclient
 - REPOSITÓRIO -> https://github.com/HenriqueGranatto/the-forgotten-client-js
 - TRELLO -> 
 - DISCORD ->   
-- REPOSITÓRIO DO SERVER: https://github.com/HenriqueGranatto/the-forgotten-server-js
+- REPOSITÓRIO DO TFS JS: https://github.com/HenriqueGranatto/the-forgotten-server-js
